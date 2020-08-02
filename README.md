@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Text Summarization models
+- 🔭 I’m currently working on text summarization models
 - 🌱 I’m currently learning Robotics Software Engineering (in Udacity)
 - 💬 Ask me about NLP and Deep RL
 - ⚡ Fun fact: It took me 1 hour to write this bullet
