@@ -1,7 +1,7 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working on text summarization models
-- 🌱 I’m currently learning Robotics Software Engineering (in Udacity)
+- 🔭 Currently working on text summarization models
+- 🌱 Now learning Robotics Software Engineering (in Udacity)
 - 💬 Ask me about NLP and Deep RL
 
 <!--
