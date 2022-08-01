@@ -1,7 +1,6 @@
 ### Hello world 👋
 
-- 🔭 Currently working on text summarization models
-- 🌱 Now learning Robotics Software Engineering (in Udacity)
+- 🔭 Currently working/learning about distributed training on multiple nodes
 - 💬 Ask me about NLP and Deep RL
 
 <!--
